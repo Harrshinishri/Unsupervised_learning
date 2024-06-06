@@ -1,4 +1,4 @@
-# Unsupervised_learning
+# Unsupervised learning
 - Unsupervised learning on country data
 
 - This project was inspired by a problem statement from Kaggle. The dataset and problem description can be found here:
